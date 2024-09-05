@@ -1,0 +1,8 @@
+# ninja log v5
+4	1988	7472298695595470	CMakeFiles/simple_display.dir/main.cpp.obj	878c54e9c1c2300e
+1	297	7472305640610384	build.ninja	30eb1d6b2120caa1
+1988	2133	7472298696997402	simple_display.exe	76877cafc936e640
+7	3842	7472319756078527	CMakeFiles/simple_display.dir/main.cpp.obj	878c54e9c1c2300e
+3843	5648	7472319774053766	simple_display.exe	76877cafc936e640
+5	2259	7472320368026427	CMakeFiles/simple_display.dir/main.cpp.obj	878c54e9c1c2300e
+2260	2426	7472320369597464	simple_display.exe	76877cafc936e640
