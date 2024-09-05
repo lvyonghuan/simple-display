@@ -1,1 +1,2 @@
-./simple_display.exe
+@echo off
+simple_virtual_display.exe
